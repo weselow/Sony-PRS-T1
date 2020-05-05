@@ -25,3 +25,6 @@ All firmwares and files for Sony reader
 
 ## Источник: 4pda
 ссылка: https://4pda.ru/forum/index.php?showtopic=301887
+
+## Дополнительно
+Другие инструкции, если что, буду дополнять тут: https://hackworlds.com/proshivki-dlya-sony-prs-t1/
