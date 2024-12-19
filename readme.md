@@ -24,7 +24,7 @@ All firmwares and files for Sony reader
 
 
 ## Источник: 4pda
-ссылка: https://4pda.ru/forum/index.php?showtopic=301887
+ссылка: https://4pda.to/forum/index.php?showtopic=301887
 
 ## Где файлы?
 В связи с жадностью Гитхаба файлы пришлось переместить сюда: https://cloud.mail.ru/public/1Ge2/2swoWuUTw
